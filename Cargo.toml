@@ -1,0 +1,11 @@
+[package]
+name = "principia_meshing"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A library for meshing 3D objects for FEM analysis and CAD."
+keywords = ["CAD", "FEM", "CAM", "Meshing"]
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
